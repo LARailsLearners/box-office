@@ -17,3 +17,4 @@ box-office is a Sinatra app that uses the [OMDB API](http://www.omdbapi.com).
   [waffle](https://waffle.io/LARailsLearners/box-office)
 - create a new branch `feature#issue-number` or `bugfix#issue-number`
 - open PR and merge after one person approves
+- use this [slack channel](https://laruby.slack.com/messages/eastside_study_group/) to communicate with other developers
